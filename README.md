@@ -2,7 +2,7 @@
 
 ## Supplemental materials including R codes and datasets generated and/or analyzed during the study
 
-(a) [Simultaneous autoregressive models:](https://github.com/optiforziyan/Beta_divesity_Lauraceae_2021/tree/main/Structural%20equation%20models) 
+(a) [Simultaneous autoregressive models:](https://github.com/optiforziyan/Beta_divesity_Lauraceae_2021/tree/main/SAR) 
 Best fitted SAR models predicting Sørensen-based multi-site dissimilarity (βsor) and its underlying true turnover (βsim) and nestedness (βsne) components for Chinese Lauraceae. R codes and data used for SAR analysis are given here to ensure reproducible results during the pre-review process.
 
 (b) [Predicted distribution maps:](https://github.com/optiforziyan/Beta_divesity_Lauraceae_2021/tree/main/Predicted%20maps) 
