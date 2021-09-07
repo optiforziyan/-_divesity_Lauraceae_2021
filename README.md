@@ -13,3 +13,5 @@ artificial neural networks (ANN), maximum entropy (MAXENT.Phillips) are displayi
 Breiner, F. T., Guisan, A., Bergamini, A., & Nobis, M. P. (2015). Overcoming limitations of modelling rare species by using ensembles of small models. Methods in Ecology and Evolution, 6(10), 1210–1218. https://doi.org/10.1111/2041-210X.12403
 
 Breiner, F. T., Nobis, M. P., Bergamini, A., & Guisan, A. (2018). Optimizing ensembles of small models for predicting the distribution of species with few occurrences. Methods in Ecology and Evolution, 9(4), 802–808. https://doi.org/10.1111/2041-210X.12957
+
+Kissling, W. D., & Carl, G. (2007). Spatial autocorrelation and the selection of simultaneous autoregressive models. Global Ecology and Biogeography, 17(1), 070618060123007-??? https://doi.org/10.1111/j.1466-8238.2007.00334.x
