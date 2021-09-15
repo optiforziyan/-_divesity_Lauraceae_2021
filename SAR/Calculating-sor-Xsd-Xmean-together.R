@@ -1,7 +1,5 @@
 ################################################################################ .
 # simultaneous autoregressive (SARerr) models                                  #
-# ZY - 2021-07-30                                                              #
-# optiforziyan@gmail.com                                                       #
 ################################################################################ .
 # (1)  Tuning SARerr model                                                       ----
 rm(list=ls())
@@ -114,7 +112,7 @@ minRSA <- function(Model, ND, Wstyle=c("W","B","S")){
                             z=residuals(sem.nb1.5.w), 
                             na.rm=T, increment=1, resamp=1)
   # minRSA is a measure of the autocorrelation of model residuals in space 
-  # and is the sum of the absolute value of Moran¡¯s I at the first 20 distance classes
+  # and is the sum of the absolute value of MoranÂ¡Â¯s I at the first 20 distance classes
   minRSA <- sum(abs(cor.sem.nb1.5.w$correlation[1:20]))
   maxI <- max(abs(cor.sem.nb1.5.w$correlation[1:20]))
   aic <- AIC(sem.nb1.5.w)
