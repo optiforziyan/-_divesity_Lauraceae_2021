@@ -11,6 +11,13 @@ artificial neural networks (ANN), maximum entropy (MAXENT.Phillips) are displayi
 
 ### (3) Species occurrence data including personal observations
 
+## Author(s)
+
+Ziyan Liao optiforziyan@gmail.com
+
+Chengdu Institute of Biology, Chinese Academy of Sciences, Chengdu 610041, People’s Republic of China
+
+
 ## References: 
 Breiner, F. T., Guisan, A., Bergamini, A., & Nobis, M. P. (2015). Overcoming limitations of modelling rare species by using ensembles of small models. Methods in Ecology and Evolution, 6(10), 1210–1218. https://doi.org/10.1111/2041-210X.12403
 
