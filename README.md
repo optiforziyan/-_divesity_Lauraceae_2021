@@ -1,6 +1,6 @@
 # Current climate overrides past climate change in explaining multi-site beta diversity of Lauraceae species in China 
 
-## Supplemental materials including R codes and datasets generated and/or analyzed during the study
+## Supplemental materials
 
 ###  Simultaneous autoregressive models 
 Best fitted SAR models (Kissling & Carl, 2008) predicting Sørensen-based multi-site dissimilarity (βsor) and its underlying true turnover (βsim) and nestedness (βsne) components for Chinese Lauraceae. R codes and data used for SAR analysis are given here to ensure reproducibility.
