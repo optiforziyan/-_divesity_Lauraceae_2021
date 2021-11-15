@@ -13,6 +13,10 @@ artificial neural networks (ANN), maximum entropy (MAXENT.Phillips) are displayi
 
 Ziyan Liao, Youhua Chen, Kaiwen Pan, Mohammed A. Dakhil, Kexin Lin, Xianglin Tian, Fengying Zhang, Xiaogang Wu, Bikram Pandey, Bin Wang, Niklaus E. Zimmermann, Lin Zhan & Michael P. Nobis. Current climate overrides past climate change in explaining multi-site beta diversity of Lauraceae species in China. Forest Ecosystems. Minor revision.
 
+## Acknowledgements
+
+The authors appreciate Tianwen Tang and Meng Zhang for collecting the species observations, Xuefang Gong for her efforts in the phylogenetic diversity analysis initially conceived, Ruidong Wu for providing the shapefile of Chinese nature reserves, Kalle Ruokolainen for his constructive suggestion on variable selection and statistical analysis and Ingolf Kühn for checking the reliability of the spatial regression modeling.
+
 ## Author(s)
 
 Ziyan Liao optiforziyan@gmail.com
