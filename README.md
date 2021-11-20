@@ -19,7 +19,7 @@ The authors appreciate Tianwen Tang and Meng Zhang for collecting the species ob
 
 The authors are grateful to the editor from *Forest Ecosystems* and two anonymous reviewers for their constructive comments on this work.
 
-Ziyan Liao is particularly appreciative of the valuable suggestions on this manuscript from his colleagues and friends at WSL: Dr Percy Jinga (University of Bindura, Zimbabwe), Dr Di Tian (Beijing Forestry University, China), Dr Yongyong Zhang (Northeast Normal University, China), Dr Zheng Chen (University of Chinese Academy of Sciences, China) and Dr Yunpeng Luo (Max Planck Institute for Biogeochemistry Jena, Germany).
+Ziyan Liao is particularly appreciative of the valuable suggestions on this manuscript from his colleagues and friends at WSL: Dr Percy Jinga (University of Bindura, Zimbabwe), Dr Di Tian (Beijing Forestry University, China), Dr Yongyong Zhang (Northeast Normal University, China), Dr Zheng Chen (University of Chinese Academy of Sciences, China), Dr Yiwen Pan (Nanchang University) and Dr Yunpeng Luo (Max Planck Institute for Biogeochemistry Jena, Germany).
 
 ## Author(s)
 
