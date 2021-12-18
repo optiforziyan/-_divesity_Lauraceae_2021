@@ -15,9 +15,9 @@ Ziyan Liao, Youhua Chen, Kaiwen Pan, Mohammed A. Dakhil, Kexin Lin, Xianglin Tia
 
 ## Acknowledgements
 
-The authors appreciate Tianwen Tang and Meng Zhang for collecting the species observations, Xuefang Gong for her efforts in the phylogenetic diversity analysis initially conceived, Ruidong Wu for providing the shapefile of Chinese nature reserves, Kalle Ruokolainen for his constructive suggestion on variable selection and statistical analysis and Ingolf Kühn for checking the reliability of the spatial regression modeling. 
-
 The authors are grateful to the editor from *Forest Ecosystems* and two anonymous reviewers for their constructive comments on this work.
+
+The authors appreciate Tianwen Tang and Meng Zhang for collecting the species observations, Xuefang Gong for her efforts in the phylogenetic diversity analysis initially conceived, Ruidong Wu for providing the shapefile of Chinese nature reserves, Kalle Ruokolainen for his constructive suggestion on variable selection and statistical analysis and Ingolf Kühn for checking the reliability of the spatial regression modeling. 
 
 Ziyan Liao is particularly appreciative of the valuable suggestions on this manuscript from his colleagues and friends at WSL: Dr Percy Jinga (University of Bindura, Zimbabwe), Dr Di Tian (Beijing Forestry University, China), Dr Yongyong Zhang (Northeast Normal University, China), Dr Zheng Chen (University of Chinese Academy of Sciences, China), Dr Yiwen Pan (Nanchang University, China) and Dr Yunpeng Luo (Max Planck Institute for Biogeochemistry Jena, Germany).
 
